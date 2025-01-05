@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My own website \u003e Personal Projects",
-    "content": "card recto card verso title of image",
-    "description": "card recto card verso title of image",
+    "content": "card recto card verso",
+    "description": "card recto card verso",
     "tags": [],
     "title": "Business Card",
     "uri": "/personal/business-card/index.html"
