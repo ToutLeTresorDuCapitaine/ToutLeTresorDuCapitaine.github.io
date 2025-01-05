@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EPFL Bachelor :: My projects</title>
+    <link>https://colinparisod.github.io/cursus/bachelor/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:53:50 +0100</lastBuildDate>
+    <atom:link href="https://colinparisod.github.io/cursus/bachelor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mandelbrot Pong</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/mandelbrot-pong/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:53:50 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/mandelbrot-pong/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLC Resonant Converter</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/llc-resonant-converter/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:52:57 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/llc-resonant-converter/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boost Converter</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/boost-converter/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:52:20 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/boost-converter/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tank Minigame</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/tank-minigame/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:51:55 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/tank-minigame/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tik Tak Toe</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/tik-tak-toe/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:50:52 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/tik-tak-toe/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random Forest</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/random-forest/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:50:27 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/random-forest/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nut Cracker</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/nut-cracker/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:50:05 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/nut-cracker/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alarm Clock</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/alarm-clock/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:48:49 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/alarm-clock/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ant Colony Simulation</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/ant-colony/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:38:52 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/ant-colony/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

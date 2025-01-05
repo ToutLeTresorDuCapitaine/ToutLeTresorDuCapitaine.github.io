@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursus Projects :: My projects</title>
+    <link>https://colinparisod.github.io/cursus/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:43:06 +0100</lastBuildDate>
+    <atom:link href="https://colinparisod.github.io/cursus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maturity Project</title>
+      <link>https://colinparisod.github.io/cursus/maturity-project/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:43:06 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/maturity-project/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EPFL Bachelor</title>
+      <link>https://colinparisod.github.io/cursus/bachelor/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:35:22 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/bachelor/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EPFL Master</title>
+      <link>https://colinparisod.github.io/cursus/master/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:35:15 +0100</pubDate>
+      <guid>https://colinparisod.github.io/cursus/master/index.html</guid>
+      <description>I am not in master yet, stay tuned!</description>
+    </item>
+  </channel>
+</rss>
