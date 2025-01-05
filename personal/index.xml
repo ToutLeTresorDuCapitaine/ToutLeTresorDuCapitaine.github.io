@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Projects :: My projects</title>
-    <link>https://toutletresorducapitaine.github.io/personal/index.html</link>
+    <link>http://localhost:1313/personal/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 01:03:25 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pure Sine Wave Inverter</title>
-      <link>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</link>
+      <link>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</guid>
+      <guid>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Business Card</title>
-      <link>https://toutletresorducapitaine.github.io/personal/business-card/index.html</link>
+      <link>http://localhost:1313/personal/business-card/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:04 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/personal/business-card/index.html</guid>
+      <guid>http://localhost:1313/personal/business-card/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Ball Physics Simulation</title>
-      <link>https://toutletresorducapitaine.github.io/personal/ball-physics-simulation/index.html</link>
+      <link>http://localhost:1313/personal/ball-physics-simulation/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:55 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/personal/ball-physics-simulation/index.html</guid>
+      <guid>http://localhost:1313/personal/ball-physics-simulation/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Brawlhalla Without Lag</title>
-      <link>https://toutletresorducapitaine.github.io/personal/brawlhalla-without-lag/index.html</link>
+      <link>http://localhost:1313/personal/brawlhalla-without-lag/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:31 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/personal/brawlhalla-without-lag/index.html</guid>
+      <guid>http://localhost:1313/personal/brawlhalla-without-lag/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Mandelbrot Zoom</title>
-      <link>https://toutletresorducapitaine.github.io/personal/mandelbrot-zoom/index.html</link>
+      <link>http://localhost:1313/personal/mandelbrot-zoom/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:12 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/personal/mandelbrot-zoom/index.html</guid>
+      <guid>http://localhost:1313/personal/mandelbrot-zoom/index.html</guid>
       <description></description>
     </item>
   </channel>
