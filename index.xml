@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My own website :: My projects</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/index.html</link>
     <description>Welcome on my website!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:19:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Projects</title>
-      <link>http://localhost:1313/personal/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/personal/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:19:07 +0100</pubDate>
-      <guid>http://localhost:1313/personal/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/personal/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Cursus Projects</title>
-      <link>http://localhost:1313/cursus/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/cursus/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:18:54 +0100</pubDate>
-      <guid>http://localhost:1313/cursus/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/cursus/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>EPFL Racing Team</title>
-      <link>http://localhost:1313/epflrt/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/epflrt/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:27:32 +0100</pubDate>
-      <guid>http://localhost:1313/epflrt/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/epflrt/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Subdir</title>
-      <link>http://localhost:1313/subdir/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/subdir/index.html</link>
       <pubDate>Sat, 04 Jan 2025 17:54:16 +0100</pubDate>
-      <guid>http://localhost:1313/subdir/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/subdir/index.html</guid>
       <description>Hello my guy</description>
     </item>
   </channel>

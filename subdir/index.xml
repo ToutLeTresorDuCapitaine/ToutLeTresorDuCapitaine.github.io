@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subdir :: My projects</title>
-    <link>http://localhost:1313/subdir/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/subdir/index.html</link>
     <description>Hello my guy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:42:27 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/subdir/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/subdir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Vie De Moi</title>
-      <link>http://localhost:1313/subdir/b/b/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/subdir/b/b/index.html</link>
       <pubDate>Sat, 04 Jan 2025 17:42:27 +0100</pubDate>
-      <guid>http://localhost:1313/subdir/b/b/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/subdir/b/b/index.html</guid>
       <description>Is this image showing up? title of image</description>
     </item>
   </channel>
