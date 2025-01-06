@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My own website \u003e Personal Projects",
-    "content": "card recto card verso",
-    "description": "card recto card verso",
+    "content": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC technologies Difficulty 2/10 Iterations 3",
+    "description": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC technologies Difficulty 2/10 Iterations 3",
     "tags": [],
     "title": "Business Card",
     "uri": "/personal/business-card/index.html"
