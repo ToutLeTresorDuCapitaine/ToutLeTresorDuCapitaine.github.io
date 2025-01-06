@@ -29,12 +29,5 @@
       <guid>https://toutletresorducapitaine.github.io/epflrt/index.html</guid>
       <description></description>
     </item>
-    <item>
-      <title>Subdir</title>
-      <link>https://toutletresorducapitaine.github.io/subdir/index.html</link>
-      <pubDate>Sat, 04 Jan 2025 17:54:16 +0100</pubDate>
-      <guid>https://toutletresorducapitaine.github.io/subdir/index.html</guid>
-      <description>Hello my guy</description>
-    </item>
   </channel>
 </rss>

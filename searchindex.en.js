@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My own website \u003e Personal Projects",
-    "content": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC technologies Difficulty 2/10 Iterations 3",
-    "description": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC technologies Difficulty 2/10 Iterations 3",
+    "content": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :\nFinancial : It is not intended to distribute them for business opportunities because they are too expensive. Electrical : To exchange informations without giving the card, a NFC tag must be embedded. Mechanical : It must have the same format as a credit card in order to easily fit inside a card holder. Utility : The information present on the card (written, not NFT) must be valid in the long term future. Aesthetics : It should look simple and as clean as possible without impacting other objectives.",
+    "description": "card recto card verso Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :\nFinancial : It is not intended to distribute them for business opportunities because they are too expensive. Electrical : To exchange informations without giving the card, a NFC tag must be embedded. Mechanical : It must have the same format as a credit card in order to easily fit inside a card holder. Utility : The information present on the card (written, not NFT) must be valid in the long term future. Aesthetics : It should look simple and as clean as possible without impacting other objectives.",
     "tags": [],
     "title": "Business Card",
     "uri": "/personal/business-card/index.html"
@@ -246,22 +246,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "My own website",
     "uri": "/index.html"
-  },
-  {
-    "breadcrumb": "My own website",
-    "content": "Hello my guy",
-    "description": "Hello my guy",
-    "tags": [],
-    "title": "Subdir",
-    "uri": "/subdir/index.html"
-  },
-  {
-    "breadcrumb": "My own website \u003e Subdir",
-    "content": "Is this image showing up? title of image",
-    "description": "Is this image showing up? title of image",
-    "tags": [],
-    "title": "La Vie De Moi",
-    "uri": "/subdir/b/b/index.html"
   },
   {
     "breadcrumb": "My own website",
