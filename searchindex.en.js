@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My own website \u003e Personal Projects",
-    "content": "Gallery\rRecto 3D\rVerso 3D\rVideo\rAuthor(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :\nFinancial : It is not intended to distribute them for business opportunities because they are too expensive. Electrical : To exchange informations without giving the card, a NFC tag must be embedded. Mechanical : It must have the same format as a credit card in order to easily fit inside a card holder. Utility : The information present on the card (written, not NFT) must be valid in the long term future. Aesthetics : It should look simple and as clean as possible without impacting other objectives.",
-    "description": "Gallery\rRecto 3D\rVerso 3D\rVideo\rAuthor(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :\nFinancial : It is not intended to distribute them for business opportunities because they are too expensive. Electrical : To exchange informations without giving the card, a NFC tag must be embedded. Mechanical : It must have the same format as a credit card in order to easily fit inside a card holder. Utility : The information present on the card (written, not NFT) must be valid in the long term future. Aesthetics : It should look simple and as clean as possible without impacting other objectives.",
+    "content": "Gallery\r3D Recto\r3D Verso\rReal Recto\rReal Verso\rVideo Demo\rAuthor(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :\nFinancial : It is not intended to distribute them for business opportunities because they are too expensive. Electrical : To exchange informations without giving the card, a NFC tag must be embedded. Mechanical : It must have the same format as a credit card in order to easily fit inside a card holder. Utility : The information present on the card (written, not NFT) must be valid in the long term future. Aesthetics : It should look simple and as clean as possible without impacting other objectives.",
+    "description": "Gallery\r3D Recto\r3D Verso\rReal Recto\rReal Verso\rVideo Demo\rAuthor(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :",
     "tags": [],
     "title": "Business Card",
     "uri": "/personal/business-card/index.html"
@@ -242,7 +242,7 @@ var relearn_searchindex = [
   {
     "breadcrumb": "",
     "content": "Welcome on my website!",
-    "description": "Welcome on my website!",
+    "description": "hello",
     "tags": [],
     "title": "My own website",
     "uri": "/index.html"
