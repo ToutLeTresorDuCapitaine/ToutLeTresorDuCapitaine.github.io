@@ -167,15 +167,15 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: C (Programming Language)",
-    "uri": "/tags/c-programming-language/index.html"
+    "title": "Tag :: C Programming Languages",
+    "uri": "/tags/c-programming-languages/index.html"
   },
   {
     "breadcrumb": "My own website \u003e Academic \u003e EPFL Bachelor",
     "content": "",
     "description": "",
     "tags": [
-      "C (Programming Language)",
+      "C Programming Languages",
       "Game"
     ],
     "title": "Tank Minigame",
@@ -257,20 +257,12 @@ var relearn_searchindex = [
     "uri": "/tags/arduino/index.html"
   },
   {
-    "breadcrumb": "My own website \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: C++",
-    "uri": "/tags/c\u0026#43;\u0026#43;/index.html"
-  },
-  {
     "breadcrumb": "My own website \u003e Academic",
     "content": "",
     "description": "",
     "tags": [
       "Arduino",
-      "C++",
+      "C Programming Languages",
       "Signal Processing"
     ],
     "title": "Maturity Project",
@@ -281,7 +273,7 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [
-      "C++",
+      "C Programming Languages",
       "Simulation"
     ],
     "title": "Ant Colony Simulation",
