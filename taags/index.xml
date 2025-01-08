@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags :: My Project Portfolio</title>
+    <link>http://localhost:1313/taags/index.html</link>
+    <description>Welcome on my website!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
+    <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
+    <lastBuildDate>Sat, 04 Jan 2025 17:57:06 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/taags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My own website</title>
+      <link>http://localhost:1313/taags/c-plus-plus/index.html</link>
+      <pubDate>Sat, 04 Jan 2025 17:57:06 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/taags/c-plus-plus/index.html</guid>
+      <description>hello</description>
+    </item>
+    <item>
+      <title>My own website</title>
+      <link>http://localhost:1313/taags/python/index.html</link>
+      <pubDate>Sat, 04 Jan 2025 17:57:06 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/taags/python/index.html</guid>
+      <description>hello</description>
+    </item>
+    <item>
+      <title>Power Electronics</title>
+      <link>http://localhost:1313/taags/power-elec/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/taags/power-elec/index.html</guid>
+      <description>Welcome on my website!</description>
+    </item>
+  </channel>
+</rss>

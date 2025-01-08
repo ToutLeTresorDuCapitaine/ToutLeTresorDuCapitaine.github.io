@@ -2,12 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/tags/index.html</link>
-    <description></description>
+    <link>http://localhost:1313/tags/index.html</link>
+    <description>Search by category</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
-    <atom:link href="https://toutletresorducapitaine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 01:03:25 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag :: Altium</title>
+      <link>http://localhost:1313/tags/altium/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/altium/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Power Electronics</title>
+      <link>http://localhost:1313/tags/power-electronics/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/power-electronics/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Safety</title>
+      <link>http://localhost:1313/tags/safety/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/safety/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Signal Processing</title>
+      <link>http://localhost:1313/tags/signal-processing/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/signal-processing/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Python</title>
+      <link>http://localhost:1313/tags/python/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:59:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/python/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Simulation</title>
+      <link>http://localhost:1313/tags/simulation/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:59:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/simulation/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Game</title>
+      <link>http://localhost:1313/tags/game/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:59:31 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/game/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: VHDL</title>
+      <link>http://localhost:1313/tags/vhdl/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:53:50 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/vhdl/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: C (Programming Language)</title>
+      <link>http://localhost:1313/tags/c-programming-language/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:51:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/c-programming-language/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Assembly</title>
+      <link>http://localhost:1313/tags/assembly/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:50:52 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/assembly/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Computer Aided Design</title>
+      <link>http://localhost:1313/tags/computer-aided-design/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:50:05 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/computer-aided-design/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Logisim Evolution</title>
+      <link>http://localhost:1313/tags/logisim-evolution/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:48:49 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/logisim-evolution/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Arduino</title>
+      <link>http://localhost:1313/tags/arduino/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:43:06 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/arduino/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/index.html</link>
+      <pubDate>Sun, 05 Jan 2025 00:38:52 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

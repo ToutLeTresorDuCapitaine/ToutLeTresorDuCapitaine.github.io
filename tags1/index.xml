@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My own website :: Tag :: My Project Portfolio</title>
+    <link>http://localhost:1313/tags1/index.html</link>
+    <description>hello</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
+    <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/tags1/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

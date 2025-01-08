@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>a secret :: Tag :: My Project Portfolio</title>
+    <link>http://localhost:1313/tags/the-hidden/index.html</link>
+    <description>This lists all pages that are hidden from the home page. This includes pages that define hidden=true in their front matter as well as descendents of hidden pages.&#xA;When giving term pages, you should give it a title. Otherwise it will print out a warning and will use the urlized title, which may looks weird.&#xA;While internally this term is called hidden, it is referenced in the resulting english pages as a secret and as hush, matey in the piratish translation.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
+    <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
+    <atom:link href="http://localhost:1313/tags/the-hidden/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

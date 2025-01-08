@@ -1,48 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Projects :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/personal/index.html</link>
+    <title>Personal :: My Project Portfolio</title>
+    <link>http://localhost:1313/personal/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
-    <lastBuildDate>Sun, 05 Jan 2025 01:03:25 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 18:58:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Website</title>
+      <link>http://localhost:1313/personal/website/index.html</link>
+      <pubDate>Wed, 08 Jan 2025 18:58:31 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
+      <guid>http://localhost:1313/personal/website/index.html</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pure Sine Wave Inverter</title>
-      <link>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</link>
+      <link>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</guid>
+      <guid>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Business Card</title>
-      <link>https://toutletresorducapitaine.github.io/personal/business-card/index.html</link>
+      <link>http://localhost:1313/personal/business-card/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:04 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/business-card/index.html</guid>
+      <guid>http://localhost:1313/personal/business-card/index.html</guid>
       <description>Gallery&#xD;3D Recto&#xD;3D Verso&#xD;Real Recto&#xD;Real Verso&#xD;Video Demo&#xD;Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :</description>
     </item>
     <item>
       <title>Ball Physics Simulation</title>
-      <link>https://toutletresorducapitaine.github.io/personal/ball-physics-simulation/index.html</link>
+      <link>http://localhost:1313/personal/ball-physics-simulation/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/ball-physics-simulation/index.html</guid>
+      <guid>http://localhost:1313/personal/ball-physics-simulation/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Brawlhalla Without Lag</title>
-      <link>https://toutletresorducapitaine.github.io/personal/brawlhalla-without-lag/index.html</link>
+      <link>http://localhost:1313/personal/brawlhalla-without-lag/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:31 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/brawlhalla-without-lag/index.html</guid>
+      <guid>http://localhost:1313/personal/brawlhalla-without-lag/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Mandelbrot Zoom</title>
-      <link>https://toutletresorducapitaine.github.io/personal/mandelbrot-zoom/index.html</link>
+      <link>http://localhost:1313/personal/mandelbrot-zoom/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:59:12 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/mandelbrot-zoom/index.html</guid>
+      <guid>http://localhost:1313/personal/mandelbrot-zoom/index.html</guid>
       <description></description>
     </item>
   </channel>
