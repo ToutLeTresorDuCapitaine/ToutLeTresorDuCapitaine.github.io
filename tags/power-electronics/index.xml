@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power Electronics :: Tag :: My Project Portfolio</title>
-    <link>http://localhost:1313/tags/power-electronics/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/tags/power-electronics/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sun, 05 Jan 2025 01:03:25 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/power-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/tags/power-electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pure Sine Wave Inverter</title>
-      <link>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>LLC Resonant Converter</title>
-      <link>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:52:57 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Boost Converter</title>
-      <link>http://localhost:1313/academic/bachelor/boost-converter/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/boost-converter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:52:20 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/boost-converter/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/boost-converter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Backbone</title>
-      <link>http://localhost:1313/epflrt/sirius/backbone/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:59:36 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/epflrt/sirius/backbone/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Smart Switch</title>
-      <link>http://localhost:1313/epflrt/lrt6/smart-switch/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/smart-switch/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:58:52 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/epflrt/lrt6/smart-switch/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/smart-switch/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>LED Driver</title>
-      <link>http://localhost:1313/epflrt/lrt6/led-driver/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/led-driver/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:58:42 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/epflrt/lrt6/led-driver/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/led-driver/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Buck Boost Converter</title>
-      <link>http://localhost:1313/epflrt/lrt6/buck-boost/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/buck-boost/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:58:30 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/epflrt/lrt6/buck-boost/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/buck-boost/index.html</guid>
       <description></description>
     </item>
   </channel>

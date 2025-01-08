@@ -257,11 +257,20 @@ var relearn_searchindex = [
     "uri": "/tags/arduino/index.html"
   },
   {
+    "breadcrumb": "My own website \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: C++",
+    "uri": "/tags/c\u0026#43;\u0026#43;/index.html"
+  },
+  {
     "breadcrumb": "My own website \u003e Academic",
     "content": "",
     "description": "",
     "tags": [
       "Arduino",
+      "C++",
       "Signal Processing"
     ],
     "title": "Maturity Project",
@@ -277,14 +286,6 @@ var relearn_searchindex = [
     ],
     "title": "Ant Colony Simulation",
     "uri": "/academic/bachelor/ant-colony/index.html"
-  },
-  {
-    "breadcrumb": "My own website \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: C++",
-    "uri": "/tags/c\u0026#43;\u0026#43;/index.html"
   },
   {
     "breadcrumb": "My own website \u003e Academic",

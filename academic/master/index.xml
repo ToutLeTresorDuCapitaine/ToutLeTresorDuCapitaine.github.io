@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EPFL Master :: My Project Portfolio</title>
-    <link>http://localhost:1313/academic/master/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/academic/master/index.html</link>
     <description>I am not in master yet, stay tuned!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/academic/master/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/academic/master/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C (Programming Language) :: Tag :: My Project Portfolio</title>
-    <link>http://localhost:1313/tags/c-programming-language/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/tags/c-programming-language/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sun, 05 Jan 2025 00:51:55 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/c-programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/tags/c-programming-language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tank Minigame</title>
-      <link>http://localhost:1313/academic/bachelor/tank-minigame/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/tank-minigame/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:51:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/tank-minigame/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/tank-minigame/index.html</guid>
       <description></description>
     </item>
   </channel>

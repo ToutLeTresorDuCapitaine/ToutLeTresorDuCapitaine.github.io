@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EPFL Bachelor :: My Project Portfolio</title>
-    <link>http://localhost:1313/academic/bachelor/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/academic/bachelor/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sun, 05 Jan 2025 00:53:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/academic/bachelor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/academic/bachelor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandelbrot Pong</title>
-      <link>http://localhost:1313/academic/bachelor/mandelbrot-pong/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/mandelbrot-pong/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:53:50 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/mandelbrot-pong/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/mandelbrot-pong/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>LLC Resonant Converter</title>
-      <link>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:52:57 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Boost Converter</title>
-      <link>http://localhost:1313/academic/bachelor/boost-converter/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/boost-converter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:52:20 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/boost-converter/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/boost-converter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tank Minigame</title>
-      <link>http://localhost:1313/academic/bachelor/tank-minigame/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/tank-minigame/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:51:55 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/tank-minigame/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/tank-minigame/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tik Tak Toe</title>
-      <link>http://localhost:1313/academic/bachelor/tik-tak-toe/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/tik-tak-toe/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:50:52 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/tik-tak-toe/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/tik-tak-toe/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Random Forest</title>
-      <link>http://localhost:1313/academic/bachelor/random-forest/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/random-forest/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:50:27 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/random-forest/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/random-forest/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Nut Cracker</title>
-      <link>http://localhost:1313/academic/bachelor/nut-cracker/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/nut-cracker/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:50:05 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/nut-cracker/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/nut-cracker/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Alarm Clock</title>
-      <link>http://localhost:1313/academic/bachelor/alarm-clock/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/alarm-clock/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:48:49 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/alarm-clock/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/alarm-clock/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Ant Colony Simulation</title>
-      <link>http://localhost:1313/academic/bachelor/ant-colony/index.html</link>
+      <link>https://toutletresorducapitaine.github.io/academic/bachelor/ant-colony/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:38:52 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>http://localhost:1313/academic/bachelor/ant-colony/index.html</guid>
+      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/ant-colony/index.html</guid>
       <description></description>
     </item>
   </channel>
