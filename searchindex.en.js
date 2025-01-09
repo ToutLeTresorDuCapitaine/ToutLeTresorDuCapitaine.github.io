@@ -1,9 +1,19 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "My own website \u003e Personal",
+    "breadcrumb": "My own website \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: HTML/CSS",
+    "uri": "/tags/html/css/index.html"
+  },
+  {
+    "breadcrumb": "My own website \u003e Personal",
+    "content": "",
+    "description": "",
+    "tags": [
+      "HTML/CSS"
+    ],
     "title": "This Website",
     "uri": "/personal/website/index.html"
   },
@@ -265,8 +275,8 @@ var relearn_searchindex = [
       "C Programming Languages",
       "Signal Processing"
     ],
-    "title": "Maturity Project",
-    "uri": "/academic/maturity-project/index.html"
+    "title": "Maturity Thesis",
+    "uri": "/academic/maturity-thesis/index.html"
   },
   {
     "breadcrumb": "My own website \u003e Academic \u003e EPFL Bachelor",

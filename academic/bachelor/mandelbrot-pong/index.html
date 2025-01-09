@@ -25,12 +25,15 @@
     <meta itemprop="dateModified" content="2025-01-05T00:53:50+01:00">
     <meta itemprop="keywords" content="VHDL,Simulation,Game">
     <title>Mandelbrot Pong :: My Project Portfolio</title>
-    <link href="/images/favicon.png?1736362596" rel="icon" type="image/png">
-    <link href="/css/fontawesome-all.min.css?1736362596" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1736362596" rel="stylesheet"></noscript>
-    <link href="/css/auto-complete.css?1736362596" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1736362596" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1736362596" rel="stylesheet">
-    <link href="/css/theme.min.css?1736362596" rel="stylesheet">
-    <link href="/css/format-html.min.css?1736362596" rel="stylesheet" id="R-format-style">
+    <link href="/academic/bachelor/mandelbrot-pong/index.xml" rel="alternate" type="application/rss+xml" title="Mandelbrot Pong :: My Project Portfolio">
+    <link href="/academic/bachelor/mandelbrot-pong/index.print.html" rel="alternate" type="text/html" title="Mandelbrot Pong :: My Project Portfolio">
+    <link href="/academic/bachelor/mandelbrot-pong/index.md" rel="alternate" type="text/markdown" title="Mandelbrot Pong :: My Project Portfolio">
+    <link href="/images/favicon.png?1736441646" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1736441646" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1736441646" rel="stylesheet"></noscript>
+    <link href="/css/auto-complete.css?1736441646" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1736441646" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1736441646" rel="stylesheet">
+    <link href="/css/theme.min.css?1736441646" rel="stylesheet">
+    <link href="/css/format-html.min.css?1736441646" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..\/..\/..';
@@ -40,7 +43,7 @@
       window.relearn.disableAnchorCopy=false;
       window.relearn.disableAnchorScrolling=false;
       // variant stuff
-      window.relearn.themevariants = [ 'auto', 'relearn-light', 'neon' ];
+      window.relearn.themevariants = [ 'auto', 'light', 'dark' ];
       window.relearn.customvariantname = "my-custom-variant";
       window.relearn.changeVariant = function(variant) {
         var oldVariant = document.documentElement.dataset.rThemeVariant;
@@ -108,6 +111,10 @@
             itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Mandelbrot Pong</span><meta itemprop="position" content="4"></li>
           </ol>
           <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-markdown" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/academic/bachelor/mandelbrot-pong/index.md" title="Show Markdown"><i class="fa-fw fab fa-markdown"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/academic/bachelor/mandelbrot-pong/index.print.html" title="Print whole chapter (CTRL&#43;ALT&#43;p)"><i class="fa-fw fas fa-print"></i></a>
+            </div>
             <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/academic/bachelor/index.html" title="EPFL Bachelor (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
             </div>
             <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/academic/bachelor/llc-resonant-converter/index.html" title="LLC Resonant Converter (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
@@ -150,34 +157,46 @@
       <div id="R-header-topbar" class="default-animation"></div>
       <div id="R-header-wrapper" class="default-animation">
         <div id="R-header" class="default-animation">
-<head>
-    <style>
-        .container {
-            display: inline-flex;
-            align-items: center; 
-            column-gap: 20px;
-        }
 
-        img {
-            max-width: 100%;
-            max-height:100%;
-        }
-    </style>
-</head>
 
-<div class="container">
-    <div class="image">
-        <a id="R-logo" href="/index.html">
-            <img src="/images/logo1.svg" width="50" alt="brand logo">
-        </a>
-    </div>
-    <font size=7>
-        Projects
-    </font>
-</div>
+<style>
+    a#R-logo {
+      font-size: 2rem;
+      margin-top: 0rem;
+      max-width: 70%;
+      width: 14.125rem;
+    }
+    @media only all and (max-width: 59.999rem) {
+      a#R-logo {
+          font-size: 1.5625rem;
+          margin-top: -.1875rem;
+      }
+    }
+    #R-logo svg,
+    #R-logo svg * {
+      opacity: .9;
+    }
+    #R-logo svg {
+      margin-bottom: -1.25rem;
+      margin-inline-start: -1.47rem;
+      margin-inline-end: 2rem;
+      width: 30.5%;
+    }
+    @media only all and (max-width: 59.999rem) {
+      #R-logo svg {
+        margin-bottom: -.75rem;
+        margin-inline-start: -1.47rem;
+        margin-inline-end: .5rem;
+      }
+    }
+  </style>
+  <a id="R-logo" href="/index.html">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 121.2"><g><path d="M26.92,72.9c-1.49,0-2.84,0.6-3.81,1.58c-0.97,0.97-1.58,2.32-1.58,3.81s0.6,2.84,1.58,3.81c0.97,0.97,2.32,1.58,3.81,1.58 c1.49,0,2.84-0.6,3.81-1.58c0.97-0.97,1.58-2.32,1.58-3.81s-0.6-2.84-1.58-3.81C29.76,73.5,28.41,72.9,26.92,72.9L26.92,72.9z M11.27,0h40.75v26.42h-4.5c-0.52-1.61-1.42-3.06-2.59-4.23c-1.91-1.91-4.55-3.09-7.46-3.09c-2.91,0-5.55,1.18-7.46,3.09 c-1.91,1.91-3.09,4.55-3.09,7.46c0,2.91,1.18,5.55,3.09,7.46c1.91,1.91,4.55,3.09,7.46,3.09c2.91,0,5.55-1.18,7.46-3.09 c1.31-1.31,2.28-2.96,2.76-4.82h7.28c1.63,0,2.94-1.32,2.94-2.94V0h20.9v16.04c-1.73,0.5-3.28,1.43-4.52,2.68 c-1.91,1.91-3.09,4.55-3.09,7.46c0,2.91,1.18,5.55,3.09,7.46c1.91,1.91,4.55,3.09,7.46,3.09c2.91,0,5.55-1.18,7.46-3.09 c1.91-1.91,3.09-4.55,3.09-7.46c0-2.91-1.18-5.55-3.09-7.46c-1.24-1.24-2.79-2.17-4.52-2.68V0h26.91c3.1,0,5.92,1.27,7.96,3.31 c2.04,2.04,3.31,4.86,3.31,7.96v98.66c0,3.14-1.6,5.94-3.94,7.96l-0.2,0.16c-2.35,1.94-5.47,3.15-8.43,3.15H86.28V79.31l8.45-8.67 c1.55,0.89,3.34,1.4,5.25,1.4c2.91,0,5.55-1.18,7.46-3.09c1.91-1.91,3.09-4.55,3.09-7.46c0-2.91-1.18-5.55-3.09-7.46 c-1.91-1.91-4.55-3.09-7.46-3.09c-2.91,0-5.55,1.18-7.46,3.09c-1.91,1.91-3.09,4.55-3.09,7.46c0,1.78,0.44,3.46,1.22,4.94 l-9.26,9.51c-0.61,0.54-0.99,1.33-0.99,2.2v43.07H64.17V72.93c1.73-0.5,3.28-1.43,4.52-2.68c1.91-1.91,3.09-4.55,3.09-7.46 s-1.18-5.55-3.09-7.46c-1.91-1.91-4.55-3.09-7.46-3.09c-2.91,0-5.55,1.18-7.46,3.09c-1.91,1.91-3.09,4.55-3.09,7.46 s1.18,5.55,3.09,7.46c1.24,1.24,2.79,2.17,4.52,2.68v48.27H42.14V90.34c0-0.91-0.41-1.71-1.05-2.25l-4.89-4.77 c0.81-1.5,1.28-3.21,1.28-5.03c0-2.91-1.18-5.55-3.09-7.46c-1.91-1.91-4.55-3.09-7.46-3.09s-5.55,1.18-7.46,3.09 c-1.91,1.91-3.09,4.55-3.09,7.46c0,2.91,1.18,5.55,3.09,7.46c1.91,1.91,4.55,3.09,7.46,3.09c1.87,0,3.63-0.49,5.16-1.34l4.18,4.07 v29.62H11.27c-3.09,0-5.91-1.27-7.95-3.31l-0.01-0.01C1.27,115.83,0,113.02,0,109.93V11.27c0-3.09,1.27-5.91,3.31-7.95l0.01-0.01 L3.31,3.31C5.35,1.27,8.17,0,11.27,0L11.27,0z M85.57,22.37c-0.97-0.97-2.32-1.58-3.81-1.58s-2.84,0.6-3.81,1.58 s-1.58,2.32-1.58,3.81s0.6,2.84,1.58,3.81c0.97,0.97,2.32,1.58,3.81,1.58s2.84-0.6,3.81-1.58c0.97-0.97,1.58-2.32,1.58-3.81 S86.54,23.35,85.57,22.37L85.57,22.37z M41.28,25.85c-0.97-0.97-2.32-1.58-3.81-1.58c-1.49,0-2.84,0.6-3.81,1.58 c-0.97,0.97-1.58,2.32-1.58,3.81c0,1.49,0.6,2.84,1.58,3.81c0.97,0.97,2.32,1.58,3.81,1.58c1.49,0,2.84-0.6,3.81-1.58 c0.97-0.97,1.58-2.32,1.58-3.81C42.86,28.17,42.26,26.82,41.28,25.85L41.28,25.85z M103.79,57.67c-0.97-0.97-2.32-1.58-3.81-1.58 c-1.49,0-2.84,0.6-3.81,1.58c-0.97,0.97-1.58,2.32-1.58,3.81c0,1.49,0.6,2.84,1.58,3.81c0.97,0.97,2.32,1.58,3.81,1.58 c1.49,0,2.84-0.6,3.81-1.58c0.97-0.97,1.58-2.32,1.58-3.81C105.37,59.99,104.76,58.64,103.79,57.67L103.79,57.67z M65.03,58.97 c-0.97-0.97-2.32-1.58-3.81-1.58c-1.49,0-2.84,0.6-3.81,1.58c-0.97,0.97-1.58,2.32-1.58,3.81s0.6,2.84,1.58,3.81 c0.97,0.97,2.32,1.58,3.81,1.58c1.49,0,2.84-0.6,3.81-1.58c0.97-0.97,1.58-2.32,1.58-3.81S66.01,59.95,65.03,58.97L65.03,58.97z"/></g>
+    </svg>Projects
+  </a>
         </div>
         <script>
-          window.index_js_url="/searchindex.en.js?1736362596";
+          window.index_js_url="/searchindex.en.js?1736441646";
         </script>
         <search><form action="/search/index.html" method="get">
           <div class="searchbox default-animation">
@@ -190,12 +209,12 @@
         <script>
           var contentLangs=['en'];
         </script>
-        <script src="/js/auto-complete.js?1736362596" defer></script>
-        <script src="/js/lunr/lunr.min.js?1736362596" defer></script>
-        <script src="/js/lunr/lunr.stemmer.support.min.js?1736362596" defer></script>
-        <script src="/js/lunr/lunr.multi.min.js?1736362596" defer></script>
-        <script src="/js/lunr/lunr.en.min.js?1736362596" defer></script>
-        <script src="/js/search.js?1736362596" defer></script>
+        <script src="/js/auto-complete.js?1736441646" defer></script>
+        <script src="/js/lunr/lunr.min.js?1736441646" defer></script>
+        <script src="/js/lunr/lunr.stemmer.support.min.js?1736441646" defer></script>
+        <script src="/js/lunr/lunr.multi.min.js?1736441646" defer></script>
+        <script src="/js/lunr/lunr.en.min.js?1736441646" defer></script>
+        <script src="/js/search.js?1736441646" defer></script>
       </div>
       <div id="R-homelinks" class="default-animation homelinks">
         <ul>
@@ -214,7 +233,7 @@
             <li class="" data-nav-id="/personal/brawlhalla-without-lag/index.html"><a class="padding" href="/personal/brawlhalla-without-lag/index.html">Brawlhalla Without Lag</a></li>
             <li class="" data-nav-id="/personal/mandelbrot-zoom/index.html"><a class="padding" href="/personal/mandelbrot-zoom/index.html">Mandelbrot Zoom</a></li></ul></li>
             <li class="parent " data-nav-id="/academic/index.html"><input type="checkbox" id="R-section-6273e93eb61ecd34dfaa610b97cc154c" aria-controls="R-subsections-6273e93eb61ecd34dfaa610b97cc154c" checked><label for="R-section-6273e93eb61ecd34dfaa610b97cc154c"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Academic</span></label><a class="padding" href="/academic/index.html"><i class="fa-solid fa-graduation-cap"></i> Academic</a><ul id="R-subsections-6273e93eb61ecd34dfaa610b97cc154c" class="collapsible-menu">
-            <li class="" data-nav-id="/academic/maturity-project/index.html"><a class="padding" href="/academic/maturity-project/index.html">Maturity Project</a></li>
+            <li class="" data-nav-id="/academic/maturity-thesis/index.html"><a class="padding" href="/academic/maturity-thesis/index.html">Maturity Thesis</a></li>
             <li class="parent " data-nav-id="/academic/bachelor/index.html"><input type="checkbox" id="R-section-5cf75581fa9629a0581ce2e2230e7988" aria-controls="R-subsections-5cf75581fa9629a0581ce2e2230e7988" checked><label for="R-section-5cf75581fa9629a0581ce2e2230e7988"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu EPFL Bachelor</span></label><a class="padding" href="/academic/bachelor/index.html">EPFL Bachelor</a><ul id="R-subsections-5cf75581fa9629a0581ce2e2230e7988" class="collapsible-menu">
             <li class="active " data-nav-id="/academic/bachelor/mandelbrot-pong/index.html"><a class="padding" href="/academic/bachelor/mandelbrot-pong/index.html">Mandelbrot Pong</a></li>
             <li class="" data-nav-id="/academic/bachelor/llc-resonant-converter/index.html"><a class="padding" href="/academic/bachelor/llc-resonant-converter/index.html">LLC Resonant Converter</a></li>
@@ -243,10 +262,10 @@
           <div class="nav-title padding">More</div>
           <ul class="space collapsible-menu">
             <li class="" data-nav-id="/tags"><a class="padding" href="/tags"><i class='fa-solid fa-tags'></i> Tags</a></li>
+            <li class="" data-nav-id="/more/credits/"><a class="padding" href="/more/credits/"><i class='fa-solid fa-bullhorn'></i> Credits</a></li>
             <li class="" data-nav-id="https://www.linkedin.com/in/colin-parisod-a73b25292"><a class="padding" href="https://www.linkedin.com/in/colin-parisod-a73b25292" target="_blank"><i class='fa-brands fa-linkedin'></i> LinkedIn</a></li>
             <li class="" data-nav-id="https://github.com/ToutLeTresorDuCapitaine"><a class="padding" href="https://github.com/ToutLeTresorDuCapitaine" target="_blank"><i class='fa-brands fa-github'></i> Github</a></li>
             <li class="" data-nav-id="mailto:mail@colinparisod.ch"><a class="padding" href="mailto:mail@colinparisod.ch" target="_blank"><i class='fa-solid fa-at'></i> EMail</a></li>
-            <li class="" data-nav-id="/more/credits/"><a class="padding" href="/more/credits/"><i class='fa-solid fa-bullhorn'></i> Credits</a></li>
           </ul>
         </div>
         <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter"></div>
@@ -275,8 +294,8 @@
                     <label class="a11y-only" for="R-select-variant">Theme</label>
                     <select id="R-select-variant" onchange="window.relearn.changeVariant( this.value );">
                       <option id="R-select-variant-auto" value="auto" selected>Auto</option>
-                      <option id="R-select-variant-relearn-light" value="relearn-light">Relearn Light</option>
-                      <option id="R-select-variant-neon" value="neon">Neon</option>
+                      <option id="R-select-variant-light" value="light">Light</option>
+                      <option id="R-select-variant-dark" value="dark">Dark</option>
                     </select>
                   </div>
                   <div class="clear"></div>
@@ -300,8 +319,8 @@
         </div>
       </div>
     </aside>
-    <script src="/js/clipboard.min.js?1736362596" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1736362596" defer></script>
-    <script src="/js/theme.js?1736362596" defer></script>
+    <script src="/js/clipboard.min.js?1736441646" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1736441646" defer></script>
+    <script src="/js/theme.js?1736441646" defer></script>
   </body>
 </html>
