@@ -452,7 +452,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My Projects Portfolio \u003e ",
-    "content": "Voila les credits",
+    "content": "Otto Riha for the “personal projects” picture in the homepage and the personal page.",
     "description": "Credits for the tools and services used for this website.",
     "tags": [],
     "title": "Credits",
