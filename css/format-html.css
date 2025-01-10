@@ -13,11 +13,11 @@
   --MAIN-BG-color: rgba(255, 255, 255, 1); /* background color of content */
 
   /* optional overwrites for specific headers */
-  --MAIN-TITLES-TEXT-color: rgba(128, 128, 128, 1); /* text color of h2-h6 titles and transparent box titles */
-  --MAIN-TITLES-H1-TEXT-color: rgba(128, 128, 128, 1); /* text color of h1-h6 titles */
-  --MAIN-TITLES-H2-TEXT-color: rgba(128, 128, 128, 1); /* text color of h2-h6 titles */
-  --MAIN-TITLES-H3-TEXT-color: rgba(128, 128, 128, 1); /* text color of h3-h6 titles */
-  --MAIN-TITLES-H4-TEXT-color: rgba(128, 128, 128, 1); /* text color of h4-h6 titles */
+  --MAIN-TITLES-TEXT-color: rgba(192, 192, 192, 1); /* text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-H1-TEXT-color: rgba(192, 192, 192, 1); /* text color of h1-h6 titles */
+  --MAIN-TITLES-H2-TEXT-color: rgba(192, 192, 192, 1); /* text color of h2-h6 titles */
+  --MAIN-TITLES-H3-TEXT-color: rgba(192, 192, 192, 1); /* text color of h3-h6 titles */
+  --MAIN-TITLES-H4-TEXT-color: rgba(192, 192, 192, 1); /* text color of h4-h6 titles */
 
   --CODE-theme: neon; /* name of the chroma stylesheet file */
   --CODE-BLOCK-color: rgba(39, 40, 34, 1); /* fallback text color of block code; should be adjusted to your selected chroma style */
@@ -719,11 +719,11 @@ body .box.cstyle.transparent {
   --MAIN-BG-color: rgba(255, 255, 255, 1); /* background color of content */
 
   /* optional overwrites for specific headers */
-  --MAIN-TITLES-TEXT-color: rgba(128, 128, 128, 1); /* text color of h2-h6 titles and transparent box titles */
-  --MAIN-TITLES-H1-TEXT-color: rgba(128, 128, 128, 1); /* text color of h1-h6 titles */
-  --MAIN-TITLES-H2-TEXT-color: rgba(128, 128, 128, 1); /* text color of h2-h6 titles */
-  --MAIN-TITLES-H3-TEXT-color: rgba(128, 128, 128, 1); /* text color of h3-h6 titles */
-  --MAIN-TITLES-H4-TEXT-color: rgba(128, 128, 128, 1); /* text color of h4-h6 titles */
+  --MAIN-TITLES-TEXT-color: rgba(192, 192, 192, 1); /* text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-H1-TEXT-color: rgba(192, 192, 192, 1); /* text color of h1-h6 titles */
+  --MAIN-TITLES-H2-TEXT-color: rgba(192, 192, 192, 1); /* text color of h2-h6 titles */
+  --MAIN-TITLES-H3-TEXT-color: rgba(192, 192, 192, 1); /* text color of h3-h6 titles */
+  --MAIN-TITLES-H4-TEXT-color: rgba(192, 192, 192, 1); /* text color of h4-h6 titles */
 
   --CODE-theme: neon; /* name of the chroma stylesheet file */
   --CODE-BLOCK-color: rgba(39, 40, 34, 1); /* fallback text color of block code; should be adjusted to your selected chroma style */
