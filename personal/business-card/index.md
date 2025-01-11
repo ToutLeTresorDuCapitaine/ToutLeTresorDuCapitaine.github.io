@@ -1,10 +1,10 @@
 
 {{< tabs title="Gallery" >}}
 {{% tab title="3D Recto" %}}
-<image src="/images/BusinessCard-3D-recto.png" width="100%">
+<image src="/images/business-card-3D-recto.png" width="100%">
 {{% /tab %}}
 {{% tab title="3D Verso" %}}
-<image src="/images/BusinessCard-3D-verso.png" width="100%">
+<image src="/images/business-card-3D-verso.png" width="100%">
 {{% /tab %}}
 {{% tab title="Real Recto" %}}
 <image src="/images/placeholder.jpg" width="100%">

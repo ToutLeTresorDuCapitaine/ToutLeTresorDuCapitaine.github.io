@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Signal Processing :: Tag :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/tags/signal-processing/index.html</link>
+    <link>http://localhost:1313/tags/signal-processing/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sun, 05 Jan 2025 01:03:25 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pure Sine Wave Inverter</title>
-      <link>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</link>
+      <link>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:25 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/pure-sine-wave-inverter/index.html</guid>
+      <guid>http://localhost:1313/personal/pure-sine-wave-inverter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Business Card</title>
-      <link>https://toutletresorducapitaine.github.io/personal/business-card/index.html</link>
+      <link>http://localhost:1313/personal/business-card/index.html</link>
       <pubDate>Sun, 05 Jan 2025 01:03:04 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/personal/business-card/index.html</guid>
+      <guid>http://localhost:1313/personal/business-card/index.html</guid>
       <description>Gallery&#xD;3D Recto&#xD;3D Verso&#xD;Real Recto&#xD;Real Verso&#xD;Video Demo&#xD;Author(s) Colin Parisod Date December 2024 Skills Altium Designer, NFC Technologies Difficulty 2/10 Current Iteration REV C This project has to fulfill 5 objectives :</description>
     </item>
     <item>
       <title>LLC Resonant Converter</title>
-      <link>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</link>
+      <link>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:52:57 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/llc-resonant-converter/index.html</guid>
+      <guid>http://localhost:1313/academic/bachelor/llc-resonant-converter/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Alarm Clock</title>
-      <link>https://toutletresorducapitaine.github.io/academic/bachelor/alarm-clock/index.html</link>
+      <link>http://localhost:1313/academic/bachelor/alarm-clock/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:48:49 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/alarm-clock/index.html</guid>
+      <guid>http://localhost:1313/academic/bachelor/alarm-clock/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Maturity Thesis</title>
-      <link>https://toutletresorducapitaine.github.io/academic/maturity-thesis/index.html</link>
+      <link>http://localhost:1313/academic/maturity-thesis/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:43:06 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/academic/maturity-thesis/index.html</guid>
+      <guid>http://localhost:1313/academic/maturity-thesis/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>TSAL Logic</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/ariane/tsal-logic/index.html</link>
+      <link>http://localhost:1313/epflrt/ariane/tsal-logic/index.html</link>
       <pubDate>Sat, 04 Jan 2025 19:01:16 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/ariane/tsal-logic/index.html</guid>
+      <guid>http://localhost:1313/epflrt/ariane/tsal-logic/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Backbone</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.html</link>
+      <link>http://localhost:1313/epflrt/sirius/backbone/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:59:36 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.html</guid>
+      <guid>http://localhost:1313/epflrt/sirius/backbone/index.html</guid>
       <description>Gallery&#xD;3D Recto&#xD;3D Verso&#xD;Real Recto&#xD;Real Verso&#xD;Assembly&#xD;Box front&#xD;Box back&#xD;Powered on&#xD;Author(s) Colin Parisod Date May 2024 Skills Altium Designer, Power electronics, Signal Processing, Safety Difficulty 10/10 Current Iteration REV B This project has to fulfill X objectives :</description>
     </item>
     <item>
       <title>LED Driver</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/led-driver/index.html</link>
+      <link>http://localhost:1313/epflrt/lrt6/led-driver/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:58:42 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/led-driver/index.html</guid>
+      <guid>http://localhost:1313/epflrt/lrt6/led-driver/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Buck Boost Converter</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/buck-boost/index.html</link>
+      <link>http://localhost:1313/epflrt/lrt6/buck-boost/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:58:30 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/buck-boost/index.html</guid>
+      <guid>http://localhost:1313/epflrt/lrt6/buck-boost/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Brake System Plausibility Device</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/ariane/bspd/index.html</link>
+      <link>http://localhost:1313/epflrt/ariane/bspd/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:25:34 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/ariane/bspd/index.html</guid>
+      <guid>http://localhost:1313/epflrt/ariane/bspd/index.html</guid>
       <description>Here is the BSPD.</description>
     </item>
   </channel>

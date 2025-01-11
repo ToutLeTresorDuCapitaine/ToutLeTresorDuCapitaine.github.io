@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VHDL :: Tag :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/tags/vhdl/index.html</link>
+    <link>http://localhost:1313/tags/vhdl/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sun, 05 Jan 2025 00:53:50 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/tags/vhdl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vhdl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandelbrot Pong</title>
-      <link>https://toutletresorducapitaine.github.io/academic/bachelor/mandelbrot-pong/index.html</link>
+      <link>http://localhost:1313/academic/bachelor/mandelbrot-pong/index.html</link>
       <pubDate>Sun, 05 Jan 2025 00:53:50 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/academic/bachelor/mandelbrot-pong/index.html</guid>
+      <guid>http://localhost:1313/academic/bachelor/mandelbrot-pong/index.html</guid>
       <description></description>
     </item>
   </channel>

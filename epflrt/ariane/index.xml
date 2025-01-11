@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ariane :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/epflrt/ariane/index.html</link>
+    <link>http://localhost:1313/epflrt/ariane/index.html</link>
     <description>Gallery&#xD;Car&#xD;Team&#xD;Division&#xD;Rollout&#xD;Competition</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sat, 04 Jan 2025 19:01:16 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/epflrt/ariane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/epflrt/ariane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TSAL Logic</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/ariane/tsal-logic/index.html</link>
+      <link>http://localhost:1313/epflrt/ariane/tsal-logic/index.html</link>
       <pubDate>Sat, 04 Jan 2025 19:01:16 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/ariane/tsal-logic/index.html</guid>
+      <guid>http://localhost:1313/epflrt/ariane/tsal-logic/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Brake System Plausibility Device</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/ariane/bspd/index.html</link>
+      <link>http://localhost:1313/epflrt/ariane/bspd/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:25:34 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/ariane/bspd/index.html</guid>
+      <guid>http://localhost:1313/epflrt/ariane/bspd/index.html</guid>
       <description>Here is the BSPD.</description>
     </item>
   </channel>

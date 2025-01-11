@@ -10,7 +10,7 @@
 <image src="/images/LRT5-leaders.jpg" width="100%">
 {{% /tab %}}
 {{% tab title="Division" %}}
-<image src="/images/LRT5-LV.jpg" width="100%">
+<image src="/images/LRT5-LV.JPG" width="100%">
 {{% /tab %}}
 {{% tab title="Rollout" %}}
 <image src="/images/LRT5-rollout.jpg" width="100%">

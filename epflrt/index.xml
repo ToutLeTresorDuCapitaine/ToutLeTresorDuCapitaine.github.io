@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EPFL Racing Team :: My Project Portfolio</title>
-    <link>https://toutletresorducapitaine.github.io/epflrt/index.html</link>
+    <link>http://localhost:1313/epflrt/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate>Sat, 04 Jan 2025 18:57:12 +0100</lastBuildDate>
-    <atom:link href="https://toutletresorducapitaine.github.io/epflrt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/epflrt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LRT6</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/lrt6/index.html</link>
+      <link>http://localhost:1313/epflrt/lrt6/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:57:12 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/lrt6/index.html</guid>
+      <guid>http://localhost:1313/epflrt/lrt6/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Sirius</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/sirius/index.html</link>
+      <link>http://localhost:1313/epflrt/sirius/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:57:05 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/sirius/index.html</guid>
+      <guid>http://localhost:1313/epflrt/sirius/index.html</guid>
       <description>Gallery&#xD;Car&#xD;Team&#xD;Leaders&#xD;Division&#xD;Rollout&#xD;Speech&#xD;Competition</description>
     </item>
     <item>
       <title>Ariane</title>
-      <link>https://toutletresorducapitaine.github.io/epflrt/ariane/index.html</link>
+      <link>http://localhost:1313/epflrt/ariane/index.html</link>
       <pubDate>Sat, 04 Jan 2025 18:27:41 +0100</pubDate><author>mail@colinparisod.ch (Colin Parisod)</author>
-      <guid>https://toutletresorducapitaine.github.io/epflrt/ariane/index.html</guid>
+      <guid>http://localhost:1313/epflrt/ariane/index.html</guid>
       <description>Gallery&#xD;Car&#xD;Team&#xD;Division&#xD;Rollout&#xD;Competition</description>
     </item>
   </channel>
