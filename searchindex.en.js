@@ -350,8 +350,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My Projects Portfolio \u003e EPFL Racing Team \u003e Sirius",
-    "content": "",
-    "description": "",
+    "content": "Gallery\r3D Recto\r3D Verso\rReal Recto\rReal Verso\rAssembly\rBox front\rBox back\rPowered on\rAuthor(s) Colin Parisod Date May 2024 Skills Altium Designer, Power electronics, Signal Processing, Safety Difficulty 10/10 Current Iteration REV B This project has to fulfill X objectives :\nFinancial : Electrical : Mechanical : Utility : Aesthetics :",
+    "description": "Gallery\r3D Recto\r3D Verso\rReal Recto\rReal Verso\rAssembly\rBox front\rBox back\rPowered on\rAuthor(s) Colin Parisod Date May 2024 Skills Altium Designer, Power electronics, Signal Processing, Safety Difficulty 10/10 Current Iteration REV B This project has to fulfill X objectives :",
     "tags": [
       "Altium",
       "Power Electronics",
@@ -416,16 +416,16 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My Projects Portfolio \u003e EPFL Racing Team",
-    "content": "",
-    "description": "",
+    "content": "Gallery\rCar\rTeam\rDivision\rRollout\rSpeech\rCompetition",
+    "description": "Gallery\rCar\rTeam\rDivision\rRollout\rSpeech\rCompetition",
     "tags": [],
     "title": "Sirius",
     "uri": "/epflrt/sirius/index.html"
   },
   {
     "breadcrumb": "My Projects Portfolio \u003e EPFL Racing Team",
-    "content": "",
-    "description": "",
+    "content": "Gallery\rCar\rTeam\rDivision\rRollout\rCompetition",
+    "description": "Gallery\rCar\rTeam\rDivision\rRollout\rCompetition",
     "tags": [],
     "title": "Ariane",
     "uri": "/epflrt/ariane/index.html"
