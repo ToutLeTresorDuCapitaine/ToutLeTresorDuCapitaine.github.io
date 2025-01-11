@@ -8,7 +8,7 @@
 <image src="/images/LRT4-team2.JPG" width="100%">
 {{% /tab %}}
 {{% tab title="Division" %}}
-<image src="/images/LRT4-LV.JPG" width="100%">
+<image src="/images/LRT4-LV.jpg" width="100%">
 {{% /tab %}}
 {{% tab title="Rollout" %}}
 <image src="/images/LRT4-rollout.JPG" width="100%">
