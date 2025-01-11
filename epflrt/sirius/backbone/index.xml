@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backbone :: My Project Portfolio</title>
-    <link>http://localhost:1313/epflrt/sirius/backbone/index.html</link>
+    <link>https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.html</link>
     <description>Gallery&#xD;3D Recto&#xD;3D Verso&#xD;Real Recto&#xD;Real Verso&#xD;Assembly&#xD;Box front&#xD;Box back&#xD;Powered on&#xD;Author(s) Colin Parisod Date May 2024 Skills Altium Designer, Power electronics, Signal Processing, Safety Difficulty 10/10 Current Iteration REV B This project has to fulfill X objectives :</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>mail@colinparisod.ch (Colin Parisod)</managingEditor>
     <webMaster>mail@colinparisod.ch (Colin Parisod)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/epflrt/sirius/backbone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toutletresorducapitaine.github.io/epflrt/sirius/backbone/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
