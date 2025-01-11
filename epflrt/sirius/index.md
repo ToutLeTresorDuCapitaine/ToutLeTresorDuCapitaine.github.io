@@ -10,13 +10,13 @@
 <image src="/images/LRT5-leaders.jpg" width="100%">
 {{% /tab %}}
 {{% tab title="Division" %}}
-<image src="/images/LRT5-LV.JPG" width="100%">
+<image src="/images/LRT5-LV.jpg" width="100%">
 {{% /tab %}}
 {{% tab title="Rollout" %}}
-<image src="/images/LRT5-rollout.jpg" width="100%">
+<image src="/images/LRT5-rollout.JPG" width="100%">
 {{% /tab %}}
 {{% tab title="Speech" %}}
-<image src="/images/LRT5-speech.jpg" width="100%">
+<image src="/images/LRT5-speech.JPG" width="100%">
 {{% /tab %}}
 {{% tab title="Competition" %}}
 <video src="/images/LRT5-compet.mp4" width="100%" autoplay muted loop></video>
