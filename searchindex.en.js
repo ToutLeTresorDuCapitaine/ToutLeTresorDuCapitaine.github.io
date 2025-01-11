@@ -416,8 +416,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "My Projects Portfolio \u003e EPFL Racing Team",
-    "content": "Gallery\rCar\rTeam\rDivision\rRollout\rSpeech\rCompetition",
-    "description": "Gallery\rCar\rTeam\rDivision\rRollout\rSpeech\rCompetition",
+    "content": "Gallery\rCar\rTeam\rLeaders\rDivision\rRollout\rSpeech\rCompetition",
+    "description": "Gallery\rCar\rTeam\rLeaders\rDivision\rRollout\rSpeech\rCompetition",
     "tags": [],
     "title": "Sirius",
     "uri": "/epflrt/sirius/index.html"

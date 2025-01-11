@@ -5,7 +5,9 @@
 {{% /tab %}}
 {{% tab title="Team" %}}
 <image src="/images/LRT5-team.jpg" width="100%">
-<image src="/images/LRT5-team2.jpg" width="100%">
+{{% /tab %}}
+{{% tab title="Leaders" %}}
+<image src="/images/LRT5-leaders.jpg" width="100%">
 {{% /tab %}}
 {{% tab title="Division" %}}
 <image src="/images/LRT5-LV.jpg" width="100%">
